@@ -1,0 +1,16 @@
+Includes the following mods:
+Sarge_Envirosuit
+Sarge_Slower_Food_Spoilage
+Sarge_Better_Backpacks
+Sarge_100k_Stack_Size
+laanp-PetesResourceKiller
+laanp-PetesMover
+laanp-PetesInsaneLeveler
+laanp-NoWindFallenTrees
+laanp-NoWeather
+laanp-NoSeedFatigue
+laanp-LargerDropshipSlots
+laanp-FreeBuild
+JimK Scoped rifle
+Jimk LevelingMod
+Durability
